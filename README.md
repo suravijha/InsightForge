@@ -44,7 +44,7 @@ demonstrable even without setup.
 ## Project structure
 
 ```
-genai_insights/
+insightforge/
 ├── data/
 │   └── amazon_reviews.csv           # raw review data
 ├── notebooks/
@@ -55,7 +55,6 @@ genai_insights/
 │   └── reviews_with_sentiment.csv
 ├── app/
 │   └── dashboard.py                 # Streamlit dashboard incl. live review analysis
-├── .env.example
 └── requirements.txt
 ```
 
