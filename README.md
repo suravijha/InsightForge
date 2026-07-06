@@ -26,7 +26,7 @@ Kindle, etc.), sourced from a public GitHub mirror of Amazon's product review da
 5. **Dashboard** — Streamlit app to browse insight cards per product and run live analysis on
    any pasted review text
 
-## LLM provider: Groq (free, no credit card)
+## LLM provider: Groq
 
 This project calls the LLM via [Groq](https://console.groq.com), which offers a **permanent free
 tier** (14,400 requests/day) serving fast open-weight models like Llama 3.3 70B.
