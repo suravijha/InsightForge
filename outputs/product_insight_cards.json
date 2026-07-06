@@ -1,0 +1,130 @@
+{
+  "Fire Tablet": {
+    "top_praises": [
+      "easy to use",
+      "long battery life",
+      "affordable",
+      "portable",
+      "great for reading"
+    ],
+    "top_complaints": [
+      "no backlight",
+      "small screen size",
+      "low screen resolution",
+      "no light for night reading"
+    ],
+    "recurring_themes": [
+      "reading experience",
+      "portability",
+      "value for money",
+      "ease of use"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Consider adding a backlight feature to the Fire Tablet to improve the reading experience in low-light environments."
+  },
+  "Echo (White)": {
+    "top_praises": [
+      "great value for the money",
+      "fast and responsive",
+      "good screen size and resolution",
+      "easy to use and navigate",
+      "perfect for entertainment and reading"
+    ],
+    "top_complaints": [
+      "ads on the lock screen",
+      "slow performance with certain games",
+      "limited storage space",
+      "no support for certain apps"
+    ],
+    "recurring_themes": [
+      "value for money",
+      "ease of use",
+      "entertainment and media consumption",
+      "portability and travel",
+      "comparison to other tablets and devices"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Consider offering ad-free options or increasing storage capacity to further enhance customer satisfaction and loyalty."
+  },
+  "Amazon Kindle Paperwhite - eBook reader ": {
+    "top_praises": [
+      "easy to use",
+      "great for kids",
+      "educational tools",
+      "durable protective case",
+      "parental controls"
+    ],
+    "top_complaints": [
+      "slow performance",
+      "weak micro USB port",
+      "limited offline viewing time",
+      "no Android play store"
+    ],
+    "recurring_themes": [
+      "kid-friendly",
+      "educational",
+      "parental controls",
+      "durability",
+      "ease of use"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Consider adding more offline viewing time and improving the micro USB port to enhance the overall user experience."
+  },
+  "All-New Fire HD 8 Tablet": {
+    "top_praises": [
+      "great value for the price",
+      "easy to use",
+      "excellent screen quality"
+    ],
+    "top_complaints": [
+      "ads can be annoying",
+      "some issues with starting up after unlocking the screen",
+      "wish it came with the play store pre-installed"
+    ],
+    "recurring_themes": [
+      "perfect for reading and watching movies",
+      "great for kids and elderly users",
+      "good for travel and on-the-go use"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Consider adding more features and apps to enhance the user experience, such as pre-installing the play store and improving the startup process."
+  },
+  "Amazon Fire Tv": {
+    "top_praises": [
+      "great sound quality",
+      "easy to use",
+      "convenient addition to the home"
+    ],
+    "top_complaints": [
+      "setup directions could be more detailed",
+      "limited functionality without additional skills",
+      "recognition issues with certain locations or commands"
+    ],
+    "recurring_themes": [
+      "usefulness in daily life",
+      "integration with other smart devices",
+      "music playing capabilities"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Improve setup directions and expand Alexa's skills to increase user satisfaction and functionality."
+  },
+  "Fire Kids Edition Tablet": {
+    "top_praises": [
+      "lightweight and portable",
+      "responsive and easy to use",
+      "great value for the price"
+    ],
+    "top_complaints": [
+      "too many ads",
+      "battery life is short",
+      "limited access to apps"
+    ],
+    "recurring_themes": [
+      "ease of use",
+      "portability",
+      "value for money"
+    ],
+    "overall_sentiment": "positive",
+    "recommended_action": "Consider offering an ad-free option or expanding the app store to increase customer satisfaction."
+  }
+}

@@ -1,0 +1,7 @@
+product,n_reviews,avg_rating,avg_vader_score,llm_sentiment
+Fire Tablet,11330,4.458075904677846,0.6288210856134158,positive
+Echo (White),3310,4.645317220543807,0.6795977643504533,positive
+Amazon Kindle Paperwhite - eBook reader ,3176,4.755037783375315,0.67702830604534,positive
+All-New Fire HD 8 Tablet,2960,4.585810810810811,0.6300006418918919,positive
+Amazon Fire Tv,2528,4.650316455696203,0.6945299446202532,positive
+Fire Kids Edition Tablet,1685,4.510385756676558,0.6401668842729971,positive
