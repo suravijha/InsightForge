@@ -34,7 +34,7 @@ tier** (14,400 requests/day) serving fast open-weight models like Llama 3.3 70B.
 **To enable live LLM calls:**
 1. Go to console.groq.com → sign up (free) → API Keys → Create Key
 2. Set it as an environment variable: `export GROQ_API_KEY=your_key_here`
-   (or put it in a `.env` file — see `.env.example`)
+   (or put it in a `.env` file)
 3. Re-run the notebook / launch the dashboard — it will automatically use live calls
 
 **Without a key:** the notebook and dashboard still run end-to-end using a lightweight
