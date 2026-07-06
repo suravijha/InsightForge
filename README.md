@@ -29,8 +29,7 @@ Kindle, etc.), sourced from a public GitHub mirror of Amazon's product review da
 ## LLM provider: Groq (free, no credit card)
 
 This project calls the LLM via [Groq](https://console.groq.com), which offers a **permanent free
-tier** (14,400 requests/day, OpenAI-compatible API, no credit card required) serving fast
-open-weight models like Llama 3.3 70B.
+tier** (14,400 requests/day) serving fast open-weight models like Llama 3.3 70B.
 
 **To enable live LLM calls:**
 1. Go to console.groq.com → sign up (free) → API Keys → Create Key
